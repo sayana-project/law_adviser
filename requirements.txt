@@ -1,0 +1,9 @@
+openai
+python-dotenv
+chromadb 
+langchain 
+langgraph 
+streamlit 
+fastapi 
+uvicorn 
+#langsmith 
