@@ -6,4 +6,6 @@ langgraph
 streamlit 
 fastapi 
 uvicorn 
-#langsmith 
+scikit-learn
+pyyaml 
+#langsmith
