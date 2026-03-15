@@ -7,4 +7,5 @@ streamlit
 fastapi 
 uvicorn 
 scikit-learn
+pyyaml 
 #langsmith
